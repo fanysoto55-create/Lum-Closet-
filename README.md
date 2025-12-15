@@ -1,2 +1,2 @@
 # Lume_Closet
-Aplicación de clóset digital inteligente donde puedes registrar tus prendas, crear outfits personalizados y recibir recomendaciones con inteligencia artificial.
+Lume Closet, es una aplicación de clóset digital inteligente que permite registrar prendas, accesorios, zapatos y joyería, creando Outfit, personalizados y recomendaciones mediante inteligencia artificial
